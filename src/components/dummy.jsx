@@ -64,7 +64,7 @@ console.log(incrementAction());
 
         {selector?.red?.count ? <h1>{selector.red?.count}</h1>:null}
 
-        <button onClick={increment}>incremnt</button>
+        <button onClick={increment} style={{color:"blue"}}>incremnt</button>
        <button onClick={decrement}>decrement</button>
         </div>
     )
