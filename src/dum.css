@@ -1,0 +1,12 @@
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.ggggg{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
